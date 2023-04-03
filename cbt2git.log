@@ -1,0 +1,12 @@
+2023-04-03 02:38:29.718068 - Initialized conversion of CBT781
+2023-04-03 02:38:29.839704 - Received CBT.V504.FILE781.PDS from FILE781.XMI 
+2023-04-03 02:38:29.842365 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:38:29.843826 - Found $$DOC1.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/$$DOC1
+2023-04-03 02:38:29.844903 - Found #IBMCODE.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/#IBMCODE
+2023-04-03 02:38:29.846173 - Found #IBMDOC.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/#IBMDOC
+2023-04-03 02:38:29.847295 - Found @FILE781.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/@FILE781
+2023-04-03 02:38:29.848423 - Found @IBMCODE.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/@IBMCODE
+2023-04-03 02:38:29.849350 - Found ASMACL.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/ASMACL
+2023-04-03 02:38:29.850390 - Found IEBUPDTE.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/IEBUPDTE
+2023-04-03 02:38:29.851474 - Found RACSEQ.txt (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/RACSEQ
+2023-04-03 02:38:29.852513 - Found RACSEQ1.jcl (text/plain) in CBT.V504.FILE781.PDS, moved to PDS/RACSEQ1
